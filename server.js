@@ -36,7 +36,7 @@ const transporter = nodemailer.createTransport({
   secure: true, 
   auth: {
     user: "info@investariseglobal.com",
-    pass: "<InfO@#21" 
+    pass: "Infispark@2025" 
   },
   pool: true, // Uses pooled connections for better performance/scaling
   maxConnections: 5,
